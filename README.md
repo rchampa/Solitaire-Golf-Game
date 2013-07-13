@@ -1,4 +1,4 @@
 Solitaire-Golf-Game
 ===================
 
-Single player game that looks for a solution to win with backtracking.
+Single player game that looks for a win solution with backtracking.
